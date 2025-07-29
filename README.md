@@ -1,4 +1,4 @@
-# BioThings.io MCP Server
+# 'Unofficial BioThings.io MCP Server
 
 A Model Context Protocol (MCP) server that provides access to the BioThings.io ecosystem of APIs, including MyGene.info and MyVariant.info. This server enables seamless integration of comprehensive gene and variant annotation data into your workflows.
 
